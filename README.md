@@ -54,7 +54,9 @@ After this we learned about Tensorflow which is an open source platform for mach
 We also learned CNN(Convolutional Neural Networks) and RNN(Recurrent Neural Networks) from the following links-
 1)CNN
 •https://www.youtube.com/watch?v=YRhxdVk_sIs
+
 •https://www.youtube.com/watch?v=zfiSAzpy9NM
 2)RNN
 •https://youtu.be/LHXXI4-IEns
+
 •https://youtu.be/Y2wfIKQyd1I
